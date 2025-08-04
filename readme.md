@@ -18,5 +18,5 @@
 <img src="https://skillicons.dev/icons?i=sqlite" />
 <img src="https://icon.icepanel.io/Technology/svg/Realm.svg" height="45">
 <img src="https://skillicons.dev/icons?i=html""><img src="https://www.svgrepo.com/show/373574/ejs.svg" height="45" alt="Realm DB" title="Realm DB"/>
-<img src="https://skillicons.dev/icons?i=git,postman,css,tailwind">
+<img src="https://skillicons.dev/icons?i=css,tailwind,git,postman">
 </div>
