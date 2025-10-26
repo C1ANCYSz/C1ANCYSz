@@ -11,7 +11,9 @@
 <div align="center">
 
 <h3>Core Technologies</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redis,js,ts" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo"/>
+  <img src="https://skillicons.dev/icons?i=redis,js,ts" />
   <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" height="45" alt="Socket.IO" title="Socket.IO"/>
 
 <h3>Additional Tools & Services</h3>
