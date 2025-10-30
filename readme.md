@@ -15,11 +15,14 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo"/>
   <img src="https://skillicons.dev/icons?i=redis,js,ts" />
  <img src="https://go-skill-icons.vercel.app/api/icons?i=socketio"/>
+ <img src="https://raw.githubusercontent.com/C1ANCYSz/CodexJS/main/assets/codex-icon-2.png" width="48" height="48" />
+
 
 
 <h3>Additional Tools & Services</h3>
 <img src="https://skillicons.dev/icons?i=sqlite" />
 <img src="https://icon.icepanel.io/Technology/svg/Realm.svg" height="45">
-<img src="https://skillicons.dev/icons?i=html""><img src="https://www.svgrepo.com/show/373574/ejs.svg" height="45" alt="Realm DB" title="Realm DB"/>
-<img src="https://skillicons.dev/icons?i=css,tailwind,git,postman">
+<img src="https://skillicons.dev/icons?i=html"">
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=ejs"/>
+<img src="https://skillicons.dev/icons?i=css,tailwind,postman">
 </div>
