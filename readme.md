@@ -1,28 +1,29 @@
 <h1 align="center">AHMED MO'MEN</h1>
 
-<p align="center">
-  Backend Developer, Software Engineer, Backend Engineer, You name it.
-</p>
+<h4 align="center">
+I think I know how to code.
+</h4>
 
 ---
 
-## TECH I'VE USED BEFORE
+## stuff I’ve messed with before
 
 <div align="center">
 
-<h3>Core Technologies</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react" />
+### backend / core
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=socketio" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,dotnet" />
+
+### databases / caching
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite" />
+<img src="https://icon.icepanel.io/Technology/svg/Realm.svg" height="45" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" />
+
+### frontend (against my will)
+<img src="https://skillicons.dev/icons?i=react" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo"/>
-  <img src="https://skillicons.dev/icons?i=redis,js,ts" />
- <img src="https://go-skill-icons.vercel.app/api/icons?i=socketio"/>
- <img src="https://raw.githubusercontent.com/C1ANCYSz/CodexJS/main/assets/codex-icon-2.png" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ejs" />
 
-
-
-<h3>Additional Tools & Services</h3>
-<img src="https://skillicons.dev/icons?i=sqlite" />
-<img src="https://icon.icepanel.io/Technology/svg/Realm.svg" height="45">
-<img src="https://skillicons.dev/icons?i=html"">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=ejs"/>
-<img src="https://skillicons.dev/icons?i=css,tailwind,postman">
 </div>
