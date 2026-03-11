@@ -21,9 +21,9 @@ I think I know how to code.
 <img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" />
 
 ### frontend (against my will)
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react,next" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo"/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ejs" />
 
 </div>
