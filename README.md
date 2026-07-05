@@ -2,4 +2,4 @@
 
 I've changed my GitHub username.
 
-My new account: **https://github.com/VoidClancy**
+You can find me here:  **https://github.com/VoidClancy**
